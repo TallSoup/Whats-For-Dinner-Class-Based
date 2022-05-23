@@ -1,12 +1,16 @@
-# What's For Dinner? -React Front End
+# What's For Dinner?
 
-[DEMO LINK](https://effulgent-bunny-bbabbb.netlify.app/)
+## React Demonstrating Class Based Components
+
+[DEMO LINK]()
 
 ## Description
 
-Today I challenged myself to complete a front end React app in one day.
+I've recently learned how to build class based components. To solidify and demonstate that knowledge, I have converted my most recent project [What's For Dinner](https://effulgent-bunny-bbabbb.netlify.app/) || [Source Code](https://github.com/TallSoup/Whats-For-Dinner) that was built entirely with modern, functional, components, to class based.
 
-It took me 10 hours from inception to deployment.
+I left the functional components in the code, commented out to show the difference. The finished project is identical.
+
+This will be valuable knowledge when working with legacy codebases, and for occasions where class-based components are required (such as when using error boundaries, for the time being)
 
 ## Technologies Used
 
@@ -25,6 +29,4 @@ Input what you have in your fridge/pantry/cold cellar, and it will return a doze
 
 ## Lessons Learned During Development
 
-- Working under a time crunch - it's better make things work now, then make the pretty later
-- Simple is better -> this project has very few dependancies
-- It's amazing what you can accomplish when you focus
+- Class based components
