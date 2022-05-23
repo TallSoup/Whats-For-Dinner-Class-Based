@@ -104,7 +104,7 @@ class App extends Component {
         ) : (
           <h3>Recipes You Can Make</h3>
         )}
-        {this.state.recipes && <Recipes recipes={this.state.recipes} />}
+        <Recipes recipes={this.state.recipes} />
 
         <Footer />
       </div>
@@ -194,7 +194,7 @@ class App extends Component {
 //         </div>
 //       </div>
 //       {random ? <h3>Random Recipes</h3> : <h3>Recipes You Can Make</h3>}
-//       {recipes && <Recipes recipes={recipes} />}
+//       <Recipes recipes={recipes} />
 
 //       <Footer />
 //     </div>
