@@ -2,7 +2,7 @@
 
 ## React Demonstrating Class Based Components
 
-[DEMO LINK]()
+[DEMO LINK](https://moonlit-tiramisu-189bb2.netlify.app/)
 
 ## Description
 
@@ -16,8 +16,8 @@ This will be valuable knowledge when working with legacy codebases, and for occa
 
 - JavaScript ES6+
 - JSX
-- React (Components, Hooks(State and Refs), Fragments)
-- Bootstrap 5 (the new 5.2 beta)
+- React (Class-Based Components)
+- Bootstrap 5
 - Heroku
 - Git and Github
 
@@ -29,4 +29,4 @@ Input what you have in your fridge/pantry/cold cellar, and it will return a doze
 
 ## Lessons Learned During Development
 
-- Class based components
+- Class-Based Components
